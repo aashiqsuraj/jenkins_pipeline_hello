@@ -1,6 +1,9 @@
 node {
-   stage 'Stage 1'
-   		echo 'Hello World 1'
-   stage 'Stage 2'
-   		echo 'Hello World 2'
+   stage 'DEV'
+   		echo 'Hello developers'
+   stage 'QA'
+   		echo 'Hello Testers'
+   stage 'STG'
+   
+  echo "zinda hu me"
 }
